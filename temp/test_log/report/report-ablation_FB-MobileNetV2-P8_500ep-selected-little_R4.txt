@@ -1,0 +1,11 @@
+                 precision    recall  f1-score   support
+
+         Normal     0.7226    0.8882    0.7969      1091
+          Tumor     0.9047    0.8809    0.8926       571
+Cerebrovascular     0.4802    0.5141    0.4966       354
+   Degenerative     0.7271    0.5321    0.6145       716
+   Inflammatory     0.7260    0.5540    0.6285       287
+
+       accuracy                         0.7267      3019
+      macro avg     0.7121    0.6739    0.6858      3019
+   weighted avg     0.7300    0.7267    0.7205      3019
